@@ -1,0 +1,70 @@
+{
+    "tributos": [
+        {
+            "codigo": 1,
+            "cpfCnpj": "11111111111",
+            "descricao": "Tributo A",
+            "valor": 114.5
+        },
+        {
+            "codigo": 2,
+            "cpfCnpj": "11111111111",
+            "descricao": "Tributo B",
+            "valor": 98.5
+        },
+        {
+            "codigo": 3,
+            "cpfCnpj": "11111111111",
+            "descricao": "Tributo C",
+            "valor": 254.5
+        },
+        {
+            "codigo": 4,
+            "cpfCnpj": "11111111111",
+            "descricao": "Tributo D",
+            "valor": 84.51
+        },
+        {
+            "codigo": 5,
+            "cpfCnpj": "22222222222",
+            "descricao": "Tributo E",
+            "valor": 84.51
+        },
+        {
+            "codigo": 6,
+            "cpfCnpj": "22222222222",
+            "descricao": "Tributo F",
+            "valor": 100.51
+        },
+        {
+            "codigo": 7,
+            "cpfCnpj": "33333333333333",
+            "descricao": "Tributo G",
+            "valor": 547.28
+        },
+        {
+            "codigo": 7,
+            "cpfCnpj": "33333333333333",
+            "descricao": "Tributo H",
+            "valor": 1045.01
+        },
+        {
+            "codigo": 8,
+            "cpfCnpj": "44444444444",
+            "descricao": "Tributo I",
+            "valor": 10.11
+        },
+        {
+            "codigo": 9,
+            "cpfCnpj": "55555555555555",
+            "descricao": "Tributo J",
+            "valor": 10.00
+        },
+        {
+            "codigo": 10,
+            "cpfCnpj": "55555555555555",
+            "descricao": "Tributo K",
+            "valor": 9.80
+        }
+    ]
+}
