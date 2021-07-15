@@ -5,77 +5,77 @@
             "cpfCnpj": "11111111111",
             "descricao": "Tributo A",
             "valor": 114.5,
-            "tipo": "X"
+            "tipo": "IPVA"
         },
         {
             "codigo": 2,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo B",
             "valor": 98.5,
-            "tipo": "X"
+            "tipo": "IPVA"
         },
         {
             "codigo": 3,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo C",
             "valor": 254.5,
-            "tipo": "X"
+            "tipo": "IPVA"
         },
         {
             "codigo": 4,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo D",
             "valor": 84.51,
-            "tipo": "X"
+            "tipo": "IPVA"
         },
         {
             "codigo": 5,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo E",
             "valor": 84.51,
-            "tipo": "X"
+            "tipo": "IPVA"
         },
         {
             "codigo": 6,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo F",
             "valor": 100.51,
-            "tipo": "X"
+            "tipo": "IPVA"
         },
         {
             "codigo": 7,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo G",
             "valor": 547.28,
-            "tipo": "X"
+            "tipo": "IPVA"
         },
         {
             "codigo": 7,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo H",
             "valor": 1045.01,
-            "tipo": "X"
+            "tipo": "IPVA"
         },
         {
             "codigo": 8,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo I",
             "valor": 10.11,
-            "tipo": "X"
+            "tipo": "IPVA"
         },
         {
             "codigo": 9,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo J",
             "valor": 10.00,
-            "tipo": "X"
+            "tipo": "IPVA"
         },
         {
             "codigo": 10,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo K",
             "valor": 9.80,
-            "tipo": "X"
+            "tipo": "IPVA"
         }
     ]
 }
