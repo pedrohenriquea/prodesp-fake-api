@@ -77,5 +77,11 @@
             "valor": 9.80,
             "tipo": "IPVA"
         }
+    ],
+    "pagamentos": [
+
+    ],
+    "estornos":[
+        
     ]
 }
