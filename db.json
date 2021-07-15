@@ -4,67 +4,78 @@
             "codigo": 1,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo A",
-            "valor": 114.5
+            "valor": 114.5,
+            "tipo": "X"
         },
         {
             "codigo": 2,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo B",
-            "valor": 98.5
+            "valor": 98.5,
+            "tipo": "X"
         },
         {
             "codigo": 3,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo C",
-            "valor": 254.5
+            "valor": 254.5,
+            "tipo": "X"
         },
         {
             "codigo": 4,
             "cpfCnpj": "11111111111",
             "descricao": "Tributo D",
-            "valor": 84.51
+            "valor": 84.51,
+            "tipo": "X"
         },
         {
             "codigo": 5,
-            "cpfCnpj": "22222222222",
+            "cpfCnpj": "11111111111",
             "descricao": "Tributo E",
-            "valor": 84.51
+            "valor": 84.51,
+            "tipo": "X"
         },
         {
             "codigo": 6,
-            "cpfCnpj": "22222222222",
+            "cpfCnpj": "11111111111",
             "descricao": "Tributo F",
-            "valor": 100.51
+            "valor": 100.51,
+            "tipo": "X"
         },
         {
             "codigo": 7,
-            "cpfCnpj": "33333333333333",
+            "cpfCnpj": "11111111111",
             "descricao": "Tributo G",
-            "valor": 547.28
+            "valor": 547.28,
+            "tipo": "X"
         },
         {
             "codigo": 7,
-            "cpfCnpj": "33333333333333",
+            "cpfCnpj": "11111111111",
             "descricao": "Tributo H",
-            "valor": 1045.01
+            "valor": 1045.01,
+            "tipo": "X"
         },
         {
             "codigo": 8,
-            "cpfCnpj": "44444444444",
+            "cpfCnpj": "11111111111",
             "descricao": "Tributo I",
-            "valor": 10.11
+            "valor": 10.11,
+            "tipo": "X"
         },
         {
             "codigo": 9,
-            "cpfCnpj": "55555555555555",
+            "cpfCnpj": "11111111111",
             "descricao": "Tributo J",
-            "valor": 10.00
+            "valor": 10.00,
+            "tipo": "X"
         },
         {
             "codigo": 10,
-            "cpfCnpj": "55555555555555",
+            "cpfCnpj": "11111111111",
             "descricao": "Tributo K",
-            "valor": 9.80
+            "valor": 9.80,
+            "tipo": "X"
         }
     ]
 }
